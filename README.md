@@ -1,2 +1,7 @@
-# REDESIGN-A-WEBSITE-LANDING-PAGE
-This project is a redesign of a website landing page created using Figma, focusing on clean UI/UX principles to improve usability, readability, and conversion.
+REDESIGN A WEBSITE LANDING PAGE
+COMPANY:CODTECH IT SOLUTIONS
+NAME:ABDUL ARSATH.T
+INTERN ID:CT06WP64
+DOMAUN:UI/UX Design
+DURATION: 6 weeks
+MENTOR:NEELA SANTOSH
