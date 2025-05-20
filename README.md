@@ -19,7 +19,7 @@
 ## 📸 Before & After  
 | Before | After |  
 |--------|-------|  
-| *(Insert Screenshot)* | *(Insert Redesigned Screenshot)* |  
+| ![Image](https://github.com/user-attachments/assets/ec543499-72e2-413d-a58c-16b2db93f11a)| *(Insert Redesigned Screenshot)* |  
 
 ---
 
